@@ -15,3 +15,5 @@ mew line
 5)Игнорировать файлы override.tf и override.tf.jsonс а так же все файлы с подобным раширением *_override.tf и *_override.tf.json
 
 6)Игнорировать файлы .terraformrc и terraform.rc
+
+Изменения файла в ветке fix
