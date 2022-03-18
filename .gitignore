@@ -1,4 +1,4 @@
-**/Terraform/key.json
-**/Terraform/.terraform/
-**/Terraform/terraform.tfstate
-**/Terraform/.terraform.lock.hcl
+**/Terraform 7.2/key.json
+**/Terraform 7.2/.terraform/
+**/Terraform 7.2/terraform.tfstate
+**/Terraform 7.2/.terraform.lock.hcl
